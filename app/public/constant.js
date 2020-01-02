@@ -7,7 +7,8 @@ const CAPTCHA_WRONG = 'captcha_wrong',
     LOGIN_SUCCEED = 'login_succeed',
     LOGIN_FAIL = 'login_fail',
     UN_LOGIN = 'unlogin',
-    IS_LOGIN = 'is_login'
+    IS_LOGIN = 'is_login',
+    UNKNOW_WRONG = 'unknow_wrong'
 
 module.exports = { CAPTCHA_WRONG,
     SAME_NAME_MAIL,
@@ -18,5 +19,6 @@ module.exports = { CAPTCHA_WRONG,
     LOGIN_SUCCEED,
     LOGIN_FAIL,
     UN_LOGIN,
-    IS_LOGIN
+    IS_LOGIN,
+    UNKNOW_WRONG
  }

@@ -13,8 +13,10 @@
     "egg-sequelize": "^5.2.1",
     "jsonwebtoken": "^8.5.1",
     "mysql2": "^2.1.0",
+    "node-rsa": "^1.0.7",
     "redis": "^2.8.0",
     "svg-captcha": "^1.4.0",
+    "utility": "^1.16.3",
     "uuid": "^3.3.3"
   },
   "devDependencies": {
